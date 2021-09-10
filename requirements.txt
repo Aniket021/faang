@@ -1,5 +1,5 @@
 streamlit==0.61.0
-httpstan==4.5.0
+httpstan==4.4.2
 pystan==3.2.0
 fbprophet==0.7.1
 yfinance==0.1.63
